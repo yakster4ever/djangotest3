@@ -1,0 +1,14 @@
+﻿{% extends "app/layout.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+
+    <h1>So you want to get a review?</h1>
+        <form method="post">
+            {% csrf_token %}
+            {{ form|crispy }}
+            <button type="submit" class="btn btn-secondary">Go</button>
+        </form>
+
+
+{% endblock %}

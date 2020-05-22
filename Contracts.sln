@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Contracts", "Contracts.pyproj", "{4919AA85-6387-4CD3-BC84-81674A21534D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4919AA85-6387-4CD3-BC84-81674A21534D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4919AA85-6387-4CD3-BC84-81674A21534D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4919AA85-6387-4CD3-BC84-81674A21534D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4919AA85-6387-4CD3-BC84-81674A21534D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCB725F-BF51-4EAA-8D86-C2D9BA94F566}
+	EndGlobalSection
+EndGlobal
